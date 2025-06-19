@@ -5,12 +5,17 @@
 - 😄 Pronouns: ele/dele...
   
 ##
+<h3>
+  Estátisticas 
+</h3>
 
 [![irondis's GitHub stats](https://github-readme-stats.vercel.app/api?username=irondis)](https://github.com/irondis/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irondis&hide_progress=true)
 
 ##
-
+<h3>
+  Tecnologias 
+</h3>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="irondis-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
@@ -25,13 +30,14 @@
 
 ##
 
+<h3>
+  Redes Socias 
+</h3>
 <div> 
   <a href="https://instagram.com/irondis_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:irondis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/irondis-silva-46ab28170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-  
   ##
 
